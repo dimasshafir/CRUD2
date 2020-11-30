@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboard"
+        android:icon="@drawable/ic_dash"
+        android:title="Dashboard"></item>
+
+    <item
+        android:id="@+id/tambah_Player"
+        android:title="Tambah"
+        android:icon="@drawable/ic_add"></item>
+
+    <item
+        android:id="@+id/edit_Player"
+        android:title="Update Player"
+        android:icon="@drawable/ic_edit"></item>
+</menu>
