@@ -1,0 +1,13 @@
+[
+{"type":"header","version":"5.0.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"player_main"},
+{"type":"table","name":"player","database":"player_main","data":
+[
+{"kode_player":"1","nama_player":"Azo","level_player":"98","created_at":"2020-11-29 15:27:09","updated_at":"2020-11-29 15:27:09"},
+{"kode_player":"2","nama_player":"Zeaa","level_player":"76","created_at":"2020-11-30 22:52:16","updated_at":"2020-11-30 22:52:16"},
+{"kode_player":"3","nama_player":"Zeraa","level_player":"99","created_at":"2020-11-30 22:52:43","updated_at":"2020-11-30 22:52:43"},
+{"kode_player":"4","nama_player":"Exa","level_player":"99","created_at":"2020-11-30 22:53:00","updated_at":"2020-11-30 22:53:00"},
+{"kode_player":"5","nama_player":"Qeaz","level_player":"76","created_at":"2020-11-30 22:53:19","updated_at":"2020-11-30 22:53:19"}
+]
+}
+]
